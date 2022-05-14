@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "minor_version": 1,
+    "key": "core.config_entries",
+    "data": {
+        "entries": [
+            {
+                "entry_id": "49dddd405dafbc217da4ea80f2d21cb7",
+                "version": 1,
+                "domain": "hassio",
+                "title": "Supervisor",
+                "data": {},
+                "options": {},
+                "pref_disable_new_entities": false,
+                "pref_disable_polling": false,
+                "source": "system",
+                "unique_id": "hassio",
+                "disabled_by": null
+            },
+            {
+                "entry_id": "f99c8462a1ff45da84b4494ee98af166",
+                "version": 1,
+                "domain": "sun",
+                "title": "Sun",
+                "data": {},
+                "options": {},
+                "pref_disable_new_entities": false,
+                "pref_disable_polling": false,
+                "source": "import",
+                "unique_id": null,
+                "disabled_by": null
+            }
+        ]
+    }
+}

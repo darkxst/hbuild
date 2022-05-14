@@ -1,0 +1,82 @@
+{
+    "version": 1,
+    "minor_version": 3,
+    "key": "core.device_registry",
+    "data": {
+        "devices": [
+            {
+                "config_entries": [
+                    "49dddd405dafbc217da4ea80f2d21cb7"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hassio",
+                        "core"
+                    ]
+                ],
+                "manufacturer": "Home Assistant",
+                "model": "Home Assistant Core",
+                "name": "Home Assistant Core",
+                "sw_version": "2022.5.4",
+                "hw_version": null,
+                "entry_type": "service",
+                "id": "a26d179f0ea0d59543514f1bec8c3f55",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "49dddd405dafbc217da4ea80f2d21cb7"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hassio",
+                        "supervisor"
+                    ]
+                ],
+                "manufacturer": "Home Assistant",
+                "model": "Home Assistant Supervisor",
+                "name": "Home Assistant Supervisor",
+                "sw_version": "2022.05.1",
+                "hw_version": null,
+                "entry_type": "service",
+                "id": "a3c3d0534a15235a8794bf1a38e13ba3",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "49dddd405dafbc217da4ea80f2d21cb7"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hassio",
+                        "OS"
+                    ]
+                ],
+                "manufacturer": "Home Assistant",
+                "model": "Home Assistant Operating System",
+                "name": "Home Assistant Operating System",
+                "sw_version": "7.6",
+                "hw_version": null,
+                "entry_type": "service",
+                "id": "356bdf979fab5b7f7ec30b662b7cd514",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            }
+        ],
+        "deleted_devices": []
+    }
+}
