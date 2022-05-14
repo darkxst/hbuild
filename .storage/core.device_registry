@@ -75,6 +75,30 @@
                 "name_by_user": null,
                 "disabled_by": null,
                 "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "49dddd405dafbc217da4ea80f2d21cb7"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hassio",
+                        "core_ssh"
+                    ]
+                ],
+                "manufacturer": "Official add-ons",
+                "model": "Home Assistant Add-on",
+                "name": "Terminal & SSH",
+                "sw_version": "9.4.0",
+                "hw_version": null,
+                "entry_type": "service",
+                "id": "8f7c428db1f8cd05f8cf4d6255293e76",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": "homeassistant://hassio/addon/core_ssh"
             }
         ],
         "deleted_devices": []

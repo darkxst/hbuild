@@ -20,16 +20,16 @@
                     "friendly_name": "Home Assistant Supervisor: Update",
                     "supported_features": 1
                 },
-                "last_changed": "2022-05-14T01:22:50.473936+00:00",
-                "last_updated": "2022-05-14T01:22:50.473936+00:00",
+                "last_changed": "2022-05-14T01:53:04.497836+00:00",
+                "last_updated": "2022-05-14T01:53:04.497836+00:00",
                 "context": {
-                    "id": "0180c0293fe92b6f23635345d8840ee1",
+                    "id": "0180c044edf100c63c5edcf0d3124167",
                     "parent_id": null,
                     "user_id": null
                 }
             },
             "extra_data": null,
-            "last_seen": "2022-05-14T01:37:50.632230+00:00"
+            "last_seen": "2022-05-14T01:53:04.736052+00:00"
         },
         {
             "state": {
@@ -48,16 +48,16 @@
                     "friendly_name": "Home Assistant Core: Update",
                     "supported_features": 11
                 },
-                "last_changed": "2022-05-14T01:22:50.478557+00:00",
-                "last_updated": "2022-05-14T01:22:50.478557+00:00",
+                "last_changed": "2022-05-14T01:53:04.502096+00:00",
+                "last_updated": "2022-05-14T01:53:04.502096+00:00",
                 "context": {
-                    "id": "0180c0293fee9e5c43edee453c6c39a6",
+                    "id": "0180c044edf6d2a5c0f65f78a6988046",
                     "parent_id": null,
                     "user_id": null
                 }
             },
             "extra_data": null,
-            "last_seen": "2022-05-14T01:37:50.632230+00:00"
+            "last_seen": "2022-05-14T01:53:04.736052+00:00"
         },
         {
             "state": {
@@ -76,16 +76,16 @@
                     "friendly_name": "Home Assistant Operating System: Update",
                     "supported_features": 3
                 },
-                "last_changed": "2022-05-14T01:22:50.478757+00:00",
-                "last_updated": "2022-05-14T01:22:50.478757+00:00",
+                "last_changed": "2022-05-14T01:53:04.502321+00:00",
+                "last_updated": "2022-05-14T01:53:04.502321+00:00",
                 "context": {
-                    "id": "0180c0293feef513e57b962b5fd6a2fd",
+                    "id": "0180c044edf68a7227fd281d63401b4d",
                     "parent_id": null,
                     "user_id": null
                 }
             },
             "extra_data": null,
-            "last_seen": "2022-05-14T01:37:50.632230+00:00"
+            "last_seen": "2022-05-14T01:53:04.736052+00:00"
         }
     ]
 }
