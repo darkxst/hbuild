@@ -111,6 +111,22 @@
                 "last_used_ip": "10.6.1.245",
                 "credential_id": "78ea31211a09404fa123d66c34e620d3",
                 "version": "2022.5.4"
+            },
+            {
+                "id": "1ed239a07cc344ba9e3494281a0f2ec8",
+                "user_id": "37c431591a2d400eac970702579b9659",
+                "client_id": "http://hassio.local:8123/",
+                "client_name": null,
+                "client_icon": null,
+                "token_type": "normal",
+                "created_at": "2022-05-14T03:37:25.128568+00:00",
+                "access_token_expiration": 1800.0,
+                "token": "858ac9d0cb9d3f229bbb644ae09a5b71830b9a33629157f2875ca84cc9e29fa55981292ef69974b91138d773028e8eecdfadcd8e5685f09e542fe0b83f2eda62",
+                "jwt_key": "b5748bad0ed83394e780a9dc631ba99ad2a4d361c571c74f1a0f2ce3bb7497bff9036f5e978b3ffb1cba040a0db04758743a74b3d4c21bb602eb1547bc84a7d4",
+                "last_used_at": "2022-05-14T03:37:25.128876+00:00",
+                "last_used_ip": "10.6.1.245",
+                "credential_id": "78ea31211a09404fa123d66c34e620d3",
+                "version": "2022.5.4"
             }
         ]
     }

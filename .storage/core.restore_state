@@ -20,16 +20,16 @@
                     "friendly_name": "Home Assistant Supervisor: Update",
                     "supported_features": 1
                 },
-                "last_changed": "2022-05-14T01:58:05.568196+00:00",
-                "last_updated": "2022-05-14T01:58:05.568196+00:00",
+                "last_changed": "2022-05-14T03:28:21.742097+00:00",
+                "last_updated": "2022-05-14T03:28:21.742097+00:00",
                 "context": {
-                    "id": "0180c0498600131329f4181b61ad329e",
+                    "id": "0180c09c2aee3d96aed67541f93da7ef",
                     "parent_id": null,
                     "user_id": null
                 }
             },
             "extra_data": null,
-            "last_seen": "2022-05-14T03:23:04.745479+00:00"
+            "last_seen": "2022-05-14T03:38:04.747016+00:00"
         },
         {
             "state": {
@@ -48,16 +48,16 @@
                     "friendly_name": "Home Assistant Core: Update",
                     "supported_features": 11
                 },
-                "last_changed": "2022-05-14T01:58:05.568450+00:00",
-                "last_updated": "2022-05-14T01:58:05.568450+00:00",
+                "last_changed": "2022-05-14T03:28:21.742717+00:00",
+                "last_updated": "2022-05-14T03:28:21.742717+00:00",
                 "context": {
-                    "id": "0180c04986004ba483c0fc26c39c358a",
+                    "id": "0180c09c2aee9f7ed642e5db632a905a",
                     "parent_id": null,
                     "user_id": null
                 }
             },
             "extra_data": null,
-            "last_seen": "2022-05-14T03:23:04.745479+00:00"
+            "last_seen": "2022-05-14T03:38:04.747016+00:00"
         },
         {
             "state": {
@@ -76,16 +76,16 @@
                     "friendly_name": "Home Assistant Operating System: Update",
                     "supported_features": 3
                 },
-                "last_changed": "2022-05-14T01:58:05.568773+00:00",
-                "last_updated": "2022-05-14T01:58:05.568773+00:00",
+                "last_changed": "2022-05-14T03:28:21.744069+00:00",
+                "last_updated": "2022-05-14T03:28:21.744069+00:00",
                 "context": {
-                    "id": "0180c0498600228b1195af61f8c891db",
+                    "id": "0180c09c2af0cffd7eea320d05485ca7",
                     "parent_id": null,
                     "user_id": null
                 }
             },
             "extra_data": null,
-            "last_seen": "2022-05-14T03:23:04.745479+00:00"
+            "last_seen": "2022-05-14T03:38:04.747016+00:00"
         },
         {
             "state": {
@@ -104,16 +104,16 @@
                     "friendly_name": "Terminal & SSH: Update",
                     "supported_features": 25
                 },
-                "last_changed": "2022-05-14T01:58:05.568584+00:00",
-                "last_updated": "2022-05-14T02:23:06.068754+00:00",
+                "last_changed": "2022-05-14T03:28:21.743064+00:00",
+                "last_updated": "2022-05-14T03:28:21.743064+00:00",
                 "context": {
-                    "id": "0180c0606b54268f4099341cb9e92358",
+                    "id": "0180c09c2aefe0bdfceec29c8b3f2c03",
                     "parent_id": null,
                     "user_id": null
                 }
             },
             "extra_data": null,
-            "last_seen": "2022-05-14T03:23:04.745479+00:00"
+            "last_seen": "2022-05-14T03:38:04.747016+00:00"
         },
         {
             "state": {
@@ -134,7 +134,35 @@
                 }
             },
             "extra_data": null,
-            "last_seen": "2022-05-14T03:23:04.745479+00:00"
+            "last_seen": "2022-05-14T03:38:04.747016+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "update.mosquitto_broker_update",
+                "state": "off",
+                "attributes": {
+                    "auto_update": false,
+                    "installed_version": "6.1.2",
+                    "in_progress": false,
+                    "latest_version": "6.1.2",
+                    "release_summary": null,
+                    "release_url": null,
+                    "skipped_version": null,
+                    "title": "Mosquitto broker",
+                    "entity_picture": "/api/hassio/addons/core_mosquitto/icon",
+                    "friendly_name": "Mosquitto broker: Update",
+                    "supported_features": 25
+                },
+                "last_changed": "2022-05-14T03:28:21.743508+00:00",
+                "last_updated": "2022-05-14T03:28:21.743508+00:00",
+                "context": {
+                    "id": "0180c09c2aef71fe55221026f77f59cf",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "extra_data": null,
+            "last_seen": "2022-05-14T03:38:04.747016+00:00"
         }
     ]
 }
