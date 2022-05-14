@@ -29,6 +29,19 @@
                 "source": "import",
                 "unique_id": null,
                 "disabled_by": null
+            },
+            {
+                "entry_id": "94f5dcc0ce5546bf3c3e222143d307d1",
+                "version": 1,
+                "domain": "radio_browser",
+                "title": "Radio Browser",
+                "data": {},
+                "options": {},
+                "pref_disable_new_entities": false,
+                "pref_disable_polling": false,
+                "source": "onboarding",
+                "unique_id": null,
+                "disabled_by": null
             }
         ]
     }

@@ -293,6 +293,28 @@
                 "supported_features": 25,
                 "unique_id": "core_ssh_version_latest",
                 "unit_of_measurement": null
+            },
+            {
+                "area_id": null,
+                "capabilities": null,
+                "config_entry_id": null,
+                "device_class": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_category": null,
+                "entity_id": "person.tim",
+                "hidden_by": null,
+                "icon": null,
+                "id": "0c0487340c639efaac937d75b0823e21",
+                "name": null,
+                "options": {},
+                "original_device_class": null,
+                "original_icon": null,
+                "original_name": "Tim",
+                "platform": "person",
+                "supported_features": 0,
+                "unique_id": "tim",
+                "unit_of_measurement": null
             }
         ]
     }

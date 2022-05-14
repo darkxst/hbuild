@@ -25,6 +25,17 @@
                 "name": "Supervisor",
                 "system_generated": true,
                 "local_only": false
+            },
+            {
+                "id": "37c431591a2d400eac970702579b9659",
+                "group_ids": [
+                    "system-admin"
+                ],
+                "is_owner": true,
+                "is_active": true,
+                "name": "Tim",
+                "system_generated": false,
+                "local_only": false
             }
         ],
         "groups": [
@@ -41,7 +52,17 @@
                 "name": "Read Only"
             }
         ],
-        "credentials": [],
+        "credentials": [
+            {
+                "id": "78ea31211a09404fa123d66c34e620d3",
+                "user_id": "37c431591a2d400eac970702579b9659",
+                "auth_provider_type": "homeassistant",
+                "auth_provider_id": null,
+                "data": {
+                    "username": "tim"
+                }
+            }
+        ],
         "refresh_tokens": [
             {
                 "id": "732dd2443fdc4955b493d50d9cb878f3",
@@ -73,6 +94,22 @@
                 "last_used_at": "2022-05-14T01:53:04.107465+00:00",
                 "last_used_ip": "172.30.32.2",
                 "credential_id": null,
+                "version": "2022.5.4"
+            },
+            {
+                "id": "84d01776f99b45b98be8bd5760482a12",
+                "user_id": "37c431591a2d400eac970702579b9659",
+                "client_id": "http://hassio.local:8123/",
+                "client_name": null,
+                "client_icon": null,
+                "token_type": "normal",
+                "created_at": "2022-05-14T02:11:18.373733+00:00",
+                "access_token_expiration": 1800.0,
+                "token": "ad2fbf9ad751234ce0f198a75b8e39007d213d8964e66761c70276cdefe483a31dbf7e718e7b28a2e5ffb92f40dc65e785efada08ea2cf397172bc01e43b901d",
+                "jwt_key": "8f5c56777ae07a911bbc2ab7c7d1f5defd65fe9cb983a15b94d803ac1aef18fee6a3e5b2cee37c42eac4492ab3ca87fc10b87cb511f372f093a7dd00b981d4d2",
+                "last_used_at": "2022-05-14T02:11:18.373898+00:00",
+                "last_used_ip": "10.6.1.245",
+                "credential_id": "78ea31211a09404fa123d66c34e620d3",
                 "version": "2022.5.4"
             }
         ]

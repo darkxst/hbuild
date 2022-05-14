@@ -20,16 +20,16 @@
                     "friendly_name": "Home Assistant Supervisor: Update",
                     "supported_features": 1
                 },
-                "last_changed": "2022-05-14T01:53:04.497836+00:00",
-                "last_updated": "2022-05-14T01:53:04.497836+00:00",
+                "last_changed": "2022-05-14T01:58:05.568196+00:00",
+                "last_updated": "2022-05-14T01:58:05.568196+00:00",
                 "context": {
-                    "id": "0180c044edf100c63c5edcf0d3124167",
+                    "id": "0180c0498600131329f4181b61ad329e",
                     "parent_id": null,
                     "user_id": null
                 }
             },
             "extra_data": null,
-            "last_seen": "2022-05-14T01:53:04.736052+00:00"
+            "last_seen": "2022-05-14T02:08:04.737596+00:00"
         },
         {
             "state": {
@@ -48,16 +48,16 @@
                     "friendly_name": "Home Assistant Core: Update",
                     "supported_features": 11
                 },
-                "last_changed": "2022-05-14T01:53:04.502096+00:00",
-                "last_updated": "2022-05-14T01:53:04.502096+00:00",
+                "last_changed": "2022-05-14T01:58:05.568450+00:00",
+                "last_updated": "2022-05-14T01:58:05.568450+00:00",
                 "context": {
-                    "id": "0180c044edf6d2a5c0f65f78a6988046",
+                    "id": "0180c04986004ba483c0fc26c39c358a",
                     "parent_id": null,
                     "user_id": null
                 }
             },
             "extra_data": null,
-            "last_seen": "2022-05-14T01:53:04.736052+00:00"
+            "last_seen": "2022-05-14T02:08:04.737596+00:00"
         },
         {
             "state": {
@@ -76,16 +76,44 @@
                     "friendly_name": "Home Assistant Operating System: Update",
                     "supported_features": 3
                 },
-                "last_changed": "2022-05-14T01:53:04.502321+00:00",
-                "last_updated": "2022-05-14T01:53:04.502321+00:00",
+                "last_changed": "2022-05-14T01:58:05.568773+00:00",
+                "last_updated": "2022-05-14T01:58:05.568773+00:00",
                 "context": {
-                    "id": "0180c044edf68a7227fd281d63401b4d",
+                    "id": "0180c0498600228b1195af61f8c891db",
                     "parent_id": null,
                     "user_id": null
                 }
             },
             "extra_data": null,
-            "last_seen": "2022-05-14T01:53:04.736052+00:00"
+            "last_seen": "2022-05-14T02:08:04.737596+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "update.terminal_ssh_update",
+                "state": "off",
+                "attributes": {
+                    "auto_update": false,
+                    "installed_version": "9.4.0",
+                    "in_progress": false,
+                    "latest_version": "9.4.0",
+                    "release_summary": null,
+                    "release_url": null,
+                    "skipped_version": null,
+                    "title": "Terminal & SSH",
+                    "entity_picture": "/api/hassio/addons/core_ssh/icon",
+                    "friendly_name": "Terminal & SSH: Update",
+                    "supported_features": 25
+                },
+                "last_changed": "2022-05-14T01:58:05.568584+00:00",
+                "last_updated": "2022-05-14T01:58:05.568584+00:00",
+                "context": {
+                    "id": "0180c04986000062ab0b559ffe5bd3ef",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "extra_data": null,
+            "last_seen": "2022-05-14T02:08:04.737596+00:00"
         }
     ]
 }
