@@ -97,17 +97,17 @@
                 "version": "2022.5.4"
             },
             {
-                "id": "84d01776f99b45b98be8bd5760482a12",
+                "id": "55737cae8ede4ca9b348a90f8bc3d57f",
                 "user_id": "37c431591a2d400eac970702579b9659",
                 "client_id": "http://hassio.local:8123/",
                 "client_name": null,
                 "client_icon": null,
                 "token_type": "normal",
-                "created_at": "2022-05-14T02:11:18.373733+00:00",
+                "created_at": "2022-05-14T02:14:08.543564+00:00",
                 "access_token_expiration": 1800.0,
-                "token": "ad2fbf9ad751234ce0f198a75b8e39007d213d8964e66761c70276cdefe483a31dbf7e718e7b28a2e5ffb92f40dc65e785efada08ea2cf397172bc01e43b901d",
-                "jwt_key": "8f5c56777ae07a911bbc2ab7c7d1f5defd65fe9cb983a15b94d803ac1aef18fee6a3e5b2cee37c42eac4492ab3ca87fc10b87cb511f372f093a7dd00b981d4d2",
-                "last_used_at": "2022-05-14T02:11:18.373898+00:00",
+                "token": "9749c631b1be0c495ec81e27a98f7b23b96c7c9186586ec29018c8e4d1634331b18b3d60769051fb856775db31555b68cca19eeffa913f02bb0a90cbbd4796db",
+                "jwt_key": "df8e4d0f5d4dcfaaf5f0dcffba7f56bc63126e3300f7a7fa6fcec21d1e4229acc06b0b16f2db12f262411cafe2f398610c28b2a11231df83e3968d2fb7d51183",
+                "last_used_at": "2022-05-14T02:14:08.543688+00:00",
                 "last_used_ip": "10.6.1.245",
                 "credential_id": "78ea31211a09404fa123d66c34e620d3",
                 "version": "2022.5.4"
