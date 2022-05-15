@@ -29,7 +29,7 @@
                 }
             },
             "extra_data": null,
-            "last_seen": "2022-05-14T03:38:04.747016+00:00"
+            "last_seen": "2022-05-15T00:23:04.864942+00:00"
         },
         {
             "state": {
@@ -57,7 +57,7 @@
                 }
             },
             "extra_data": null,
-            "last_seen": "2022-05-14T03:38:04.747016+00:00"
+            "last_seen": "2022-05-15T00:23:04.864942+00:00"
         },
         {
             "state": {
@@ -85,7 +85,7 @@
                 }
             },
             "extra_data": null,
-            "last_seen": "2022-05-14T03:38:04.747016+00:00"
+            "last_seen": "2022-05-15T00:23:04.864942+00:00"
         },
         {
             "state": {
@@ -113,7 +113,7 @@
                 }
             },
             "extra_data": null,
-            "last_seen": "2022-05-14T03:38:04.747016+00:00"
+            "last_seen": "2022-05-15T00:23:04.864942+00:00"
         },
         {
             "state": {
@@ -134,7 +134,7 @@
                 }
             },
             "extra_data": null,
-            "last_seen": "2022-05-14T03:38:04.747016+00:00"
+            "last_seen": "2022-05-15T00:23:04.864942+00:00"
         },
         {
             "state": {
@@ -145,7 +145,7 @@
                     "installed_version": "6.1.2",
                     "in_progress": false,
                     "latest_version": "6.1.2",
-                    "release_summary": null,
+                    "release_summary": "# Changelog\n\n## 6.1.2\n\n- Add debug option to help with issues\n\n## 6.1.1\n\n- Don't purge openssl in cleanup\n\n## 6.1.0\n\n- Update mosquitto to 2.0.11\n- Remove `mosquitto-auth-plug` and replace with `mosquitto-go-auth` 1.8.2\n- Change base image from Alpine to ",
                     "release_url": null,
                     "skipped_version": null,
                     "title": "Mosquitto broker",
@@ -154,15 +154,15 @@
                     "supported_features": 25
                 },
                 "last_changed": "2022-05-14T03:28:21.743508+00:00",
-                "last_updated": "2022-05-14T03:28:21.743508+00:00",
+                "last_updated": "2022-05-14T04:08:29.223018+00:00",
                 "context": {
-                    "id": "0180c09c2aef71fe55221026f77f59cf",
+                    "id": "0180c0c0e72607e3ec4ac3a0f23447a9",
                     "parent_id": null,
                     "user_id": null
                 }
             },
             "extra_data": null,
-            "last_seen": "2022-05-14T03:38:04.747016+00:00"
+            "last_seen": "2022-05-15T00:23:04.864942+00:00"
         }
     ]
 }
